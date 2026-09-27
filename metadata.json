@@ -1,0 +1,6 @@
+{
+  "name": "VIGOR Activewear // High Performance",
+  "description": "Loja oficial VIGOR Activewear: roupas fitness de alta compressão, engenharia têxtil inteligente Dry-Shield™, tecnologia biomecânica e clube VIP exclusivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
